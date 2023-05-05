@@ -13,7 +13,9 @@ const styles = StyleSheet.create({
         fontSize:25,
         color:'white',
         fontWeight:'bold',
-        marginRight:50
+        marginRight:50,
+        borderRadius: 10
+        
     }
 
 })

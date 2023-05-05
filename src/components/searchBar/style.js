@@ -8,12 +8,12 @@ const styles = StyleSheet.create({
         backgroundColor:'white',
         marginTop:30,
         alignItems:'center',
-        borderRadius:3
+        borderRadius:10
     },
     inputSearch:{
         height:35,
         width:'100%',
-        marginLeft:5
+        marginLeft:10,
 
     }
 
